@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sample test suite" duration-ms="21555" started-at="2021-10-13T09:52:17 IST" finished-at="2021-10-13T09:52:39 IST">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="21555" started-at="2021-10-13T09:52:17 IST" finished-at="2021-10-13T09:52:39 IST">
+      <class name="com.selenium.example.Example2">
+        <test-method status="PASS" signature="Loginbase()[pri:0, instance:com.selenium.example.Example2@6fcd31c3]" name="Loginbase" is-config="true" duration-ms="8259" started-at="2021-10-13T09:52:17 IST" finished-at="2021-10-13T09:52:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginbase -->
+        <test-method status="PASS" signature="ValidLogin()[pri:0, instance:com.selenium.example.Example2@6fcd31c3]" name="ValidLogin" duration-ms="11310" started-at="2021-10-13T09:52:26 IST" finished-at="2021-10-13T09:52:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method status="PASS" signature="Closewindow()[pri:0, instance:com.selenium.example.Example2@6fcd31c3]" name="Closewindow" is-config="true" duration-ms="1823" started-at="2021-10-13T09:52:37 IST" finished-at="2021-10-13T09:52:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewindow -->
+      </class> <!-- com.selenium.example.Example2 -->
+    </test> <!-- Login Test -->
+  </suite> <!-- sample test suite -->
+</testng-results>
